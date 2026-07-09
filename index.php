@@ -1,5 +1,5 @@
 <?php
-    echo "KFC";
-    echo "Domo";
-    echo "korn";
+    echo "Sobry";
+    echo "Nakarin";
+    echo "eiei";
 ?>
